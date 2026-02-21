@@ -20,7 +20,7 @@ print(result)
 
 def fun(name, surname):
     print("Hello,", name, surname)
-person = {"name": "Ivan", "surname": "Ermek"}
+person = {"name": "Ivan", "surname": "Sokolovskiy"}
 fun(**person)
 
     
