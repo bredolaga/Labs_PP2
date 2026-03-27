@@ -4,8 +4,8 @@ import csv
 def connect():
     return psycopg2.connect(
         dbname="phonebook_db",
-        user="postgres",
-        password="1234",
+        user="morjinka",
+        password="",
         host="localhost",
         port="5432"
     )
