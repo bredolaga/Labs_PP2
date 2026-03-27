@@ -1,0 +1,15 @@
+Name: Ivan
+Age: 17
+University: KBTU
+Field: Computer Science
+
+Courses:
+Calculus 2
+Discrete Structures
+Foreign language (English Intermediate (B1))
+Programming Principles II
+ICPC olympiad programming I
+Module of socio-political knowledge (political science, sociology, cultural studies, psychology)
+
+Notes:
+Practice file handling in Python.
